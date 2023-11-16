@@ -1,15 +1,15 @@
 # Types of Functions
 
-typesoffunctions.sol is a program to create PogCoins.
+typesoffunctions.sol is a program to mint, burn and transfer PogCoins.
 
 ## Description
 
 The program has Three main functions
-### Mint
-The mint function adds tokens to the balance of a specified address.
-### Burn
+### mintCoin
+The mintCoin function adds tokens to the balance of a specified address.
+### burnCoin
 The burn function removes tokens from the balance.
-### Transfer
+### transferCoin
 The transfer function transfers a specified ammount of tokens to a specified address.
 
 ## Getting Started
